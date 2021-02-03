@@ -1,7 +1,7 @@
 # README 
 
 In this repository I plan to somehow keep track of all computer-related stuffs I found 
-and will find useful. They should be organized in categories and sub-categories. 
+(and will find) useful. They should be organized in categories and sub-categories. 
 
 # 1. Simplify Working in the Terminal 
 
@@ -30,6 +30,15 @@ powerful. [link](https://github.com/tmux/tmux/wiki)
 [link](https://github.com/gpakosz/.tmux)    
 - Nice little tmux cheat sheet [link](https://tmuxcheatsheet.com/)    
 
+## markdown / Rmarkdown 
+Not exclusively terminal-related, however... 
+
+- Documentation from the markdown creator 
+[link](https://daringfireball.net/projects/markdown/basics)    
+- Rstudio documentation for Rmarkdown 
+[link1](https://rmarkdown.rstudio.com/lesson-1.html)     
+[link2](https://rmarkdown.rstudio.com/)
+
 # 2. R
 
 ## Books 
@@ -44,7 +53,7 @@ These books have a more general scope than the majority of the other materials.
 ## data.table 
 
 ## ggplot 
-Since I tend to use data.table as data structure, ggplot is the tidyverse package I
+Since I tend to rely data.table as data structure in R, ggplot is the tidyverse package I
 now use the most.
 
 ## packages development 
