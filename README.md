@@ -9,7 +9,7 @@ In this repository I plan to somehow keep track of all computer-related stuffs I
 The Z shell is a very cool interactive shell / scripting language, similar 
 (but in several way more advanced) to Bash. [link](http://zsh.sourceforge.net/)
 
-- Oh My Zsh existence is the main reason I use the Z shell 
+- Oh My Zsh existence is the main reason I started using the Z shell 
 [link](https://ohmyz.sh/)    
 - Two nice plugins not included in Oh My Zsh 
 [link1](https://github.com/zsh-users/zsh-syntax-highlighting) 
@@ -51,10 +51,13 @@ These books have a more general scope than the majority of the other materials.
 - R packages, by Hadley Wickham and Jenny Bryan [link](https://r-pkgs.org/)     
 
 ## data.table 
+`data.table` is a super useful R package. It mostly oriented to managing really 
+large table really fast and efficiently. It introduces a new syntax (similar to 
+SQL in some ways), low level **CPU parallelism** and modification **by reference**. 
 
 ## ggplot 
-Since I tend to rely data.table as data structure in R, ggplot is the tidyverse package I
-now use the most.
+Since I tend to rely `data.table` as data structure in R, `ggplot` is the `tidyverse` 
+package I now use the most.
 
 ## packages development 
 
